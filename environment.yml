@@ -1,0 +1,12 @@
+name: wikiwho-tutorial-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=>3.6
+  - appmode
+  - numpy
+  - pandas
+  - pip:
+    - jupyter
+    - nbstripout
+    - wikiwho_wrapper
