@@ -2,6 +2,10 @@
 
 A simple tutorial for WikiWho that uses the wikiwho_wrapper
 
+# Run with Binder:
+
+You can use run the tutorial online with Binder (may take a few minutes): [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/wikiwho_tutorial/master)
+
 # Installation
 
 1. Install the requirements:

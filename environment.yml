@@ -6,7 +6,7 @@ dependencies:
   - appmode
   - numpy
   - pandas
+  - jupyter
   - pip:
-    - jupyter
     - nbstripout
     - wikiwho_wrapper
