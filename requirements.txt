@@ -2,4 +2,3 @@ jupyter
 pandas==0.23.4
 nbstripout==0.3.3
 wikiwho-wrapper==1.4.0
-appmode==0.4.0
