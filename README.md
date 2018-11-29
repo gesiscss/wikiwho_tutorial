@@ -4,7 +4,7 @@ A simple tutorial for WikiWho that uses the wikiwho_wrapper
 
 # Run with Binder:
 
-You can use run the tutorial online with Binder (may take a few minutes): [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/wikiwho_tutorial/master?filepath=Tutorial%201%20-%20API%20requests%20(WikiWho%20wrapper).ipynb)
+You can use run the tutorial online with Binder (may take a few minutes): [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/wikiwho_tutorial/master?filepath=1.%20API%20requests%20(WikiWho%20wrapper).ipynb)
 
 # Installation
 
@@ -25,3 +25,4 @@ You can use run the tutorial online with Binder (may take a few minutes): [![Bin
 2. Browse `localhost:8888`
 
 3. Go to the `tutorial` directory, and follow the tutorials
+
