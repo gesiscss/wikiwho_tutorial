@@ -1,4 +1,4 @@
-jupyter
+jupyter==1.0.0
 pandas==0.23.4
 nbstripout==0.3.3
 wikiwho-wrapper==1.4.0
