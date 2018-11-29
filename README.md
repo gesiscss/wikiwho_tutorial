@@ -10,17 +10,23 @@ You can use run the tutorial online with Binder (may take a few minutes): [![Bin
 
 1. Install the requirements:
 
-    pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 2. Install nbstripout to make sure output changes are never merge in the branch:
 
-    nbstripout --install
+```bash
+nbstripout --install
+```
 
 # Run jupyter:
 
 1. Run jupyter
 
-        jupyter notebook
+```bash
+jupyter notebook
+```
 
 2. Browse `localhost:8888`
 
