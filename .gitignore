@@ -1,4 +1,4 @@
-data/
+data/*.df
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
