@@ -1,3 +1,0 @@
-
-#nbstripout --install
-jupyter nbextension enable --py --sys-prefix qgrid
